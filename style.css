@@ -1,0 +1,59 @@
+body{
+    background-color: hwb(154 15% 55%);
+}
+
+.titulo{
+    color: white;
+    text-shadow: black 5px 5px;
+}
+
+.intro{
+    border: black 15px solid;
+    background-color: white;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-sizing: content-box;
+    text-align: center;
+    width: 758px;
+    height: 75px;
+    margin-left: 25%;
+    text-align: center;
+
+}
+
+.estilo-1{
+    border: brown 15px solid;
+    background-color: rgb(189, 57, 57);
+    margin-right: 20%;
+    width: 758px;
+    height: 75px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    text-align: center;
+    color: white;
+
+}
+
+.estilo-2{
+    border: rgb(153, 119, 32) 15px solid;
+    background-color: goldenrod;
+    width: 754px;
+    height: 75px;
+    margin-left: 50%;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    text-align: center;
+    color: white;
+}
+
+.estilo-3{
+    border: rgb(76, 76, 236) 5px dashed;
+    background-color: blue;
+    width: 758px;
+    height: 75px;
+    color: white;
+    text-align: center;
+    margin-left: 25%;
+}
